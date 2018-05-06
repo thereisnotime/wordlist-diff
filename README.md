@@ -34,3 +34,4 @@ Place your remove list in the project directory as small.txt and the list from y
 ```sh
 node index.js
 ``` 
+* Use Unix (LF) line endings.
