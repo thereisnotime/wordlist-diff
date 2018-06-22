@@ -1,11 +1,27 @@
 {
-  "name": "wordlist-diff",
+  "name": "xxwordlistdiff",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple tool to complement wordlist manipulation.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thereisnotime/xxWordlistDiff.git"
+  },
+  "keywords": [
+    "wordlist",
+    "node",
+    "diff",
+    "comparison",
+    "manipulation",
+    "lists"
+  ],
   "author": "thereisnotime",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thereisnotime/xxWordlistDiff/issues"
+  },
+  "homepage": "https://github.com/thereisnotime/xxWordlistDiff#readme"
 }
